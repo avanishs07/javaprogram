@@ -8,6 +8,7 @@ class add
         System.out.println("Enter first number:");
         a=sc.nextInt();
         System.out.println("Enter seconnd number:");
+        System.out.println("Radhe Radhe");
         b=sc.nextInt();
     }
     void putdata()
