@@ -9,6 +9,11 @@ class add
         a=sc.nextInt();
         System.out.println("Enter seconnd number:");
         System.out.println("Radhe Radhe");
+        System.out.println("Radhe Radhe");
+        System.out.println("Radhe Radhe");
+        System.out.println("Radhe Radhe");
+        System.out.println("Radhe Radhe ji");
+
         b=sc.nextInt();
     }
     void putdata()
